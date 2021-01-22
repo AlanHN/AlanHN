@@ -20,7 +20,3 @@ I am **ALAN Haoning**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-### -I am now working on ...
-<a href="https://github.com/HaoningLan/Jupiter">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HaoningLan&repo=Jupiter" />
-</a>
