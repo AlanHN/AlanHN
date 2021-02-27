@@ -2,11 +2,11 @@
 I am **ALAN Haoning**
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-![GitHub followers](https://img.shields.io/github/followers/HaoningLan?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/AlanHN?label=Follow&style=social)
 - :books: I’m currently studying at SJTU SE
 - 🌱 I’m currently learning Java and C++
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HaoningLan&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AlanHNn&show_icons=true)
 
 ### - Languages and Tools...
 
