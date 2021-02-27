@@ -6,7 +6,7 @@ I am **ALAN Haoning**
 - :books: I’m currently studying at SJTU SE
 - 🌱 I’m currently learning Java and C++
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AlanHNn&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AlanHN&show_icons=true)
 
 ### - Languages and Tools...
 
