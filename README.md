@@ -4,7 +4,7 @@ I am **ALAN Haoning**
 
 ![GitHub followers](https://img.shields.io/github/followers/AlanHN?label=Follow&style=social)
 - :books: I’m currently studying at SJTU SE
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning OS
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AlanHN&show_icons=true)
 
